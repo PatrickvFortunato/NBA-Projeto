@@ -6,10 +6,10 @@ select time_nome as Clube, conferencia, jg, v, d, V_PCT
 from classificacao
 where conferencia = 'LESTE'
 order by V_PCT desc
-limit 4;
+limit 8;
 
 select time_nome as Clube, conferencia, jg, v, d, V_PCT
 from classificacao
 where conferencia = 'OESTE'
 order by V_PCT desc
-limit 4;
+limit 8;
