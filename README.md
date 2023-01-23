@@ -3,9 +3,13 @@
 Grupo composto por:
 
 Fabrício Izidoro,
+
 Matheus Ribeiro,
+
 Patrick Fortunato,
+
 Ygor Ranieri.
+
 
 
 Como foi feito:
