@@ -1,10 +1,11 @@
 # Trabalho em grupo módulo  4.
 
 Grupo composto por:
-Fabrício Izidoro
-Matheus Ribeiro
-Patrick Fortunato 
-Ygor Ranieri
+
+Fabrício Izidoro,
+Matheus Ribeiro,
+Patrick Fortunato,
+Ygor Ranieri.
 
 
 Como foi feito:
